@@ -3,7 +3,9 @@
 This application provides demo of one to one video call using Vonage Video API.
 Since there is no office support for flutter from voyage, this demo uses platform channel to communicate with native voyage SDK. This demo works on both Android and IOS.
 ￼
-![Sample](sample.png)
+<br/>
+<img src="sample.png" height="500px"/>
+<br/>
 
 ## Pre-requisites
 - Android studio 4.0+

@@ -44,8 +44,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void startVideoCall() {
     FlutterVonageVideoCall.init(
-        session: '2_MX40Njg5NDQ2NH5-MTYxNDc3MjExODE5NH43WTl6Y3hxR1hPQ2VHaXJORXpiK1NhRkR-fg',
-        token: 'T1==cGFydG5lcl9pZD00Njg5NDQ2NCZzaWc9Yjk0ZmMzYjJjZWRiMWIyMzE2OGFkMTAxMmM2MjRhYmRjMDBhNTg2ZTpzZXNzaW9uX2lkPTJfTVg0ME5qZzVORFEyTkg1LU1UWXhORGMzTWpFeE9ERTVOSDQzV1RsNlkzaHhSMWhQUTJWSGFYSk9SWHBpSzFOaFJrUi1mZyZjcmVhdGVfdGltZT0xNjE0NzcyMTM4Jm5vbmNlPTAuMDE1OTYyMDczOTMwNTAyNDImcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTYxNzM2MDQzOSZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ==',
-        apiKey: '46894464');
+        session: 'YOUR_SESSION_ID',
+        token: 'YOUR_TOKEN',
+        apiKey: 'YOUR_API_KEY');
   }
 }

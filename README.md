@@ -5,7 +5,7 @@ Since there is no office support for flutter from voyage, this demo uses platfor
 
 <br/>
 <br/>
-<img src="sample.png" height="500px"/>
+<img src="samplegif.gif" height="500px"/>
 <br/>
 
 ## Pre-requisites
